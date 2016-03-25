@@ -1172,13 +1172,6 @@ hr {
 [role="button"] {
   cursor: pointer;
 }
-
-.spain{
-  color: #009933;
-  font-size: 100%;
-
-}
-}
 h1,
 h2,
 h3,
@@ -6764,6 +6757,4 @@ button.close {
     display: none !important;
   }
 }
-
-
 /*# sourceMappingURL=bootstrap.css.map */
